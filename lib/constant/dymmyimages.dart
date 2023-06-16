@@ -1,0 +1,31 @@
+class DummyImage{
+  static const String homeWhite="assets/images/home_white.svg";
+  static const String calenderWhite="assets/images/calendar_white.svg";
+  static const String notificationWhite="assets/images/notification_white.svg";
+  static const String profileWhite="assets/images/profile_white.svg";
+  static const String noImage="assets/images/no_image.png";
+  static const String noData="assets/images/nodata.png";
+  static const String star="assets/images/star.svg";
+  static const String theBarber="assets/images/the_barber.jpg";
+  static const String mapLocation="assets/images/maplocation.jpg";
+  static const String locationIcon="assets/images/location_icon.svg";
+  static const String direction="assets/images/direction.svg";
+  static const String website="assets/images/website.svg";
+  static const String phone="assets/images/phone.svg";
+  static const String webView="assets/images/webview.png";
+  static const String delete="assets/images/delete.svg";
+  static const String correct="assets/images/correct.svg";
+  static const String icUp="assets/images/ic_up.svg";
+  static const String icDown="assets/images/ic_down.svg";
+  static const String icDot="assets/images/ic_dot.svg";
+  static const String camera="assets/images/camera.svg";
+  static const String locationBlack="assets/images/location_black.svg";
+  static const String edit="assets/images/edit.svg";
+  static const String changePassword="assets/images/changepassword.png";
+  static const String changePasswordDone="assets/images/passwordchangedone.png";
+  static const String loginBG="assets/images/loginbg.png";
+  static const String rightArrow="assets/images/rightarow.png";
+  static const String marker="assets/images/marker.png";
+  static const String distance="assets/images/distance.svg";
+  static const String forgotPassword="assets/images/forgotpassword.png";
+}
